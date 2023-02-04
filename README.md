@@ -5,7 +5,7 @@ A bot that automatically likes tweets that contain certain keywords, replies to 
 ![preview](./assets/preview.gif)
 
 ## 🧪 Setup
-
+ 
 1. Clone this repository
 2. Install node.js (https://nodejs.org/en/download/)
 3. run `npm install` in the directory
