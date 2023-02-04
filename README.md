@@ -2,6 +2,8 @@
 
 A bot that automatically likes tweets that contain certain keywords, replies to tweets, and replies random Gm and Gn to tweets and much more...
 
+![preview](./assets/preview.gif)
+
 ## 🧪 Setup
 
 1. Clone this repository
