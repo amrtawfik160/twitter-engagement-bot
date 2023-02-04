@@ -1,0 +1,20 @@
+{
+  "name": "twitter-engagment-bot",
+  "version": "1.0.0",
+  "description": "A simple and efficient bot that engages and likes tweets. Automated interactions with your followers and increase your Twitter presence with ease",
+  "main": "index.js",
+  "repository": "https://github.com/amrtawfik160/twitter-engagment-bot.git",
+  "author": "amrtawfik160 <amrtawfik160@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "4",
+    "inquirer": "^8.0.0",
+    "ow": "0.24.1",
+    "playwright": "^1.27.1",
+    "prettier": "^2.6.2"
+  }
+}
